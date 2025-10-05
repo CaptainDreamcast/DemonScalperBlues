@@ -1,0 +1,37 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+group = 1
+item = 0
+
+[Text 1]
+Speaker = " "
+Text = "You defeated the evil soul collectors with the power of friendship and your iconic cute fang."
+
+[Image 1]
+group = 1
+item = 1
+
+[Text 1]
+Speaker = " "
+Text = "But in a shocking twist you are actually... a scalper! You were just going to hoard the souls as well!"
+
+[Image 1]
+group = 1
+item = 2
+
+[Text 1]
+Speaker = " "
+Text = "BUT another shocking twist- the experiences with the soul collectors have changed you, and you have left scalping behind in favor of using human souls as intended- yummy food."
+
+[Image 1]
+anim = 4
+
+[Text 1]
+Speaker = " "
+Text = "Thanks a lot for playing! The end! Your amazing speedrun time: "
+
+[Title]

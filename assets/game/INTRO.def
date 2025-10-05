@@ -1,0 +1,47 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+group = 1
+item = 4
+
+[Text 1]
+Speaker = " "
+Text = " "
+
+[Image 1]
+group = 1
+item = 0
+
+[Text 1]
+Speaker = " "
+Text = "As you know you are actually a demon, as shown by your cute fang on the side of your mouth you have in real life, your iconic character design trait."
+
+[Image 1]
+group = 1
+item = 1
+
+[Text 1]
+Speaker = " "
+Text = "Since you are a demon, you love eating human souls, an innocent little demon pastime, who are we puny humans to judge."
+
+[Image 1]
+group = 1
+item = 2
+
+[Text 1]
+Speaker = " "
+Text = "But as you know, in the world of demons, there are evil soul collectors who don't value souls and only collect them for their retail value, they send them to soul grading sites and stuff."
+
+[Image 1]
+group = 1
+item = 3
+
+[Text 1]
+Speaker = " "
+Text = "Can you overcome them and collect the souls yourself? Or will you suffer from the... Demon Scalper Blues?"
+
+
+[Game]
